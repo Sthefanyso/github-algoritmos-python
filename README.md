@@ -58,6 +58,25 @@ O objetivo é praticar conceitos fundamentais da linguagem Python, como manipula
 - Comparação de valores
 - Lógica de programação
 
+### 7. Encontrando o Maior Número 📈
+
+**Conceitos praticados:**
+
+- Variáveis
+- Condicionais (`if`)
+- Comparação de valores
+- Entrada de dados
+
+### 8. Somando Valores de uma Lista 📋
+
+**Conceitos praticados:**
+
+- Listas
+- Estrutura de repetição: `for`
+- Operadores aritméticos
+- Entrada de dados
+
+
 ## Tecnologias 🚀
 
 - Python 3
@@ -66,4 +85,5 @@ O objetivo é praticar conceitos fundamentais da linguagem Python, como manipula
 
 ## Autor 👩‍💻
 
-Desenvolvido por Sthefany Souza.
+Desenvolvido por Sthefany Souza.<br>
+Colaboração: StheEstuda (perfil secundário utilizado para praticar o fluxo de colaboração em projetos Open Source durante a formação GitHub da DIO).
